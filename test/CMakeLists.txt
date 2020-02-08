@@ -1,0 +1,5 @@
+add_executable (test_basic_board_fn test_basic_board_fn.cpp)
+add_executable (test_indexing test_indexing.cpp)
+add_executable (test_rules test_rules.cpp)
+add_executable (test_utils test_utils.cpp)
+add_executable (test_solver test_solver.cpp)
